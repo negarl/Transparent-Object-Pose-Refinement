@@ -1,0 +1,14 @@
+- id: container
+  name: 003_container
+  mesh: container/container.ply
+  class: transparent
+  description: TraceBot lab container from photoneo.
+  color: [0,255,0]
+  
+- id: draintray
+  name: 003_draintray
+  mesh: draintray/DrainTray.ply
+  class: transparent
+  description: TraceBot lab tray.
+  color: [0,0,255]
+  scale: 0.001

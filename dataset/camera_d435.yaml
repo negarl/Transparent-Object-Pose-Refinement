@@ -1,0 +1,5 @@
+name: realsense_d435
+image_width: 1280
+image_height: 720
+camera_matrix: [906.29797363281, 0.0, 625.688903808, 0.0, 905.149230957, 355.472167968, 0.0, 0.0, 1.0]
+#sensor_width: 2.7288 
