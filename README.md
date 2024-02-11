@@ -4,7 +4,7 @@ This repo contains the implementation of my master's thesis project: Transparent
 
 [Thesis Link](https://drive.google.com/file/d/12WIZiDOofjRkkTLOMlQK83cBeU6k1cLg/view?usp=share_link)
 
-![Transparent Object Pose Refinement Pipeline](./fig/pipeline_V5.jpeg)
+![Transparent Object Pose Refinement Pipeline](https://github.com/negarl/Transparent-Object-Pose-Refinement/blob/master/fig/%E2%80%8Epipeline_V5.jpeg)
 
 
 ## Files 
