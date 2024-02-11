@@ -1,2 +1,1 @@
-Everything related to the contour-based loss:
-- **ToDo**
+Everything related to the contour-based loss
